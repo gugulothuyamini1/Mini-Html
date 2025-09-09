@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <tittle>
+            About web technology 
+        </tittle>
+    </head>
+    <body>
+         <center>
+
+            .....web technology.....
+         </center>
+
+    </body>
+</html>
+
+    <h1>   web       </h1>
+  <h2>        web     </h2> 
+<h3>   web      </h3>
+ <h4>     web       </h4>
+<h5>     web          </h5>
+<h6>      web         </h6>
+
+<p> 
+  <mark> <i><u>Internet</u></i>:Internet is a network.it is communicate different types of coumputers</mark>.located entire the world
+   <br><i><u>Data base</u></i>: it is store the records </br>
+  <br>the data records tabular formats</br>
+   <br><b><u>e-mail</u></b>:e-mail services anable to the internet to send a message to another internet users in any part of the world</br>
+   <br><blockquote>(hipper text transfer protocol)</br></blockquote>
+  <q> HTTP is a set of roles such that<q>
+
+    texts,images,audio files,video files,other multimediaaaa     files on the web
+FTTP

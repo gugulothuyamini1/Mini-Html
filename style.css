@@ -1,0 +1,45 @@
+
+            body{
+                background-color: aquamarine;
+                background-image: url("https://pbs.twimg.com/profile_images/1149546641499668481/NyL6ue9Q_400x400.jpg");
+                background-repeat:no-repeat ;
+                background-size: 50%;
+                border-radius: 5px;
+                background-position: center;
+                font-family: Georgia, 'Times New Roman', Times, serif;
+                font-size: medium;
+            }
+            h1{
+                color:blue;
+                text-align:center;
+
+             }
+            p{
+               text-align: center;
+                font-size: larger;
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                font-weight: lighter;
+                 text-transform: capitalize;
+            }
+            img{
+                border-radius: 25%;
+            }
+            .profiledata{
+
+                 color: brown;
+             }
+            #profiledata{
+                background-color: rgb(226, 116, 43);
+                color: aquamarine;
+            }
+            div{
+                text-align: center;
+                background-color: aqua;
+                border-radius: 10px;
+                content: inherit;
+                width: 500px;
+                padding: 17px;
+                border: 4px solid orangered;
+                margin: 20px;
+
+            }
